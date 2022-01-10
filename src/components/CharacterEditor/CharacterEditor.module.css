@@ -36,3 +36,11 @@
 .controlColumn {
   width: 50%;
 }
+
+.perspectiveBar {
+  position: fixed;
+  top: 60%;
+  bottom: 0;
+  background-color: hsl(180deg, 25%, 85%);
+  width: 100%;
+}
